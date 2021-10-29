@@ -57,6 +57,11 @@ if = {
 	limit = { NOT = { has_dlc = "Together for Victory" } }
 	set_cosmetic_tag = CAN_ALY
 }
+
+add_ideas = {
+	the_forbidden_syrup
+}
+
 if = {
 	limit = { has_dlc = "Together for Victory" }
 	add_ideas = CAN_great_depression_1
@@ -200,7 +205,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = liberalism
 	traits = {
-		#
+		political_dancer
 	}
 }
 
@@ -223,6 +228,31 @@ create_country_leader = {
     ideology = marxism
     traits = {
         #
+    }
+}
+
+create_country_leader = {
+    name = "GulliBruh (Mod Developer)"
+    desc = "POLITICS_GULLIBRUH_DESC"
+    picture = "Portrait_Canada_GulliBruh.dds"
+    expire = "1965.1.1"
+    ideology = stalinism
+    traits = {
+        dictator
+		eager_collaborator
+		economic_reformer
+		empire_builder
+		famous_aviator
+		great_war_hero
+		great_architect
+		great_survivor
+		head_of_intelligence
+		popular_figurehead
+		revolutionary_general
+		mastermind_code_cracker
+		man_of_the_nation
+		veteran_communist
+		nationalist_symbol
     }
 }
 

@@ -407,9 +407,9 @@ if = {
 	}
 	
 	create_country_leader = {
-		name = "Georgios Kosmidis"
+		name = "when the"
 		desc = "POLITICS_GEORGIOS_KOSMIDIS_DESC"
-		picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+		picture = "Portrait_Tibet_Delay_Lama.dds"
 		expire = "1965.1.1"
 		ideology = nazism
 		traits = {
@@ -419,13 +419,14 @@ if = {
 }
 
 create_country_leader = {
-		name = "Fiz"
+		name = "Fiz-Bun"
 		desc = "POLITICS_GEORGIOS_KOSMIDIS_DESC"
 		picture = "Portrait_Greece_Fiz.dds"
 		expire = "1965.1.1"
 		ideology = nazism
 		traits = {
-			#
+			appeaser
+			popular_queen
 		}
 	}
 }
