@@ -1,0 +1,26 @@
+state={
+	id=813
+	name="STATE_813"
+	provinces={
+		12989 
+	}
+	
+	history={
+		owner = BRK
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 2
+			arms_factory = 2
+			
+		}
+		add_core_of = BRK
+		victory_points = {
+			12989 20
+		}
+
+	}
+
+	manpower=2330000
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

@@ -1,0 +1,25 @@
+state={
+	id=815
+	name="STATE_815"
+	provinces={
+		11014 12941 
+	}
+	
+		history={
+		owner = ITA
+		add_core_of = SOM
+		buildings = {
+			infrastructure = 3
+			12941 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+
+	manpower=1361000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

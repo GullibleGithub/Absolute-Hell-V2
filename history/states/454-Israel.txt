@@ -1,32 +1,38 @@
 
 state={
-	id=470
-	name="STATE_470"
+	id=454
+	name="STATE_454"
 
 	history={
-		owner = CAN
+		owner = ENG
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
+			air_base = 2
+			4206 = {
+				naval_base = 3
+
+			}
 
 		}
 		victory_points = {
-			3010 3 
+			1086 1 
 		}
 		victory_points = {
-			3706 21 
+			4206 1 
 		}
 		victory_points = {
-			7718 2 
+			1065 1 
 		}
-		add_core_of = CAN
+		add_core_of = PAL
+		add_core_of = ISR
 
 	}
 
 	provinces={
-		515 1262 1347 1763 1804 3010 3706 4765 6726 6754 7348 7718 7766 7787 7858 10684 12166 12534 
+		1015 1065 1086 1201 4088 4206 7107 7176 11970 
 	}
-	manpower=690800
+	manpower=933142
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

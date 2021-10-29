@@ -1,0 +1,19 @@
+state={
+	id=807
+	name="STATE_807"
+	provinces={
+		1282 1338 1619 3732 4287 6719 7462 10247 10318 12202 12221 12459 
+	}
+	
+		history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 6
+		}
+	}
+
+	manpower=840000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}
