@@ -1,0 +1,7 @@
+spriteTypes = {	
+
+	SpriteType = {
+		name = "GFX_idea_the_forbidden_syrup"
+		texturefile = "gfx/interface/ideas/the_forbidden_syrup.dds"
+	}
+}

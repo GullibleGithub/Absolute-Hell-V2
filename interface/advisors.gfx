@@ -1,0 +1,17 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_idea_Pink_Guy"
+		texturefile = "gfx\interface\advisors\advisor_pink_guy.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_mumbo_jumbo"
+		texturefile = "gfx\interface\advisors\advisor_mumbo_jumbo.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_rantaro_futanari"
+		texturefile = "gfx\interface\advisors\advisor_rantaro_futanari.dds"
+	}
+}
