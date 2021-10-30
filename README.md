@@ -4,4 +4,4 @@ IMPORTANT: Rename this folder "absolute_hell_2" or else the mod will not work!
 
 This mod is a joke mod & should not be taken seriously.
 
-As of now, the mod is only a cosmetic mod, meaning that it only changes what the leaders look like & stuff. I will start to add some gameplay changes (countries, events, etc.) as soon as I feel like it.
+As of now, many of this mod's changes are just cosmetic, but most mods won't be compatible with it due to the fact that this mod also changes state & map files.
