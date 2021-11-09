@@ -1,20 +1,23 @@
+
 state={
 	id=810
 	name="STATE_810"
-	provinces={
-		6909 9832 9847 9850 
-	}
-	
+
 	history={
 		owner = USA
 		buildings = {
 			infrastructure = 7
+
 		}
 		add_core_of = USA
 		victory_points = {
 			9832 1 
 		}
 
+	}
+
+	provinces={
+		6909 9832 9847 9850 13239 
 	}
 	manpower=1672000
 	buildings_max_level_factor=1.000

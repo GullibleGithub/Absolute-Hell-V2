@@ -13,6 +13,7 @@ state={
 
 		}
 		add_core_of = UGA
+		add_claim_by = BRK
 		victory_points = {
 			12989 1 
 		}
