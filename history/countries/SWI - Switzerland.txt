@@ -128,13 +128,13 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Dr. Max Leo Keller"
-	desc = "POLITICS_MAX_LEO_KELLER_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds" 
-	expire = "1965.1.1"
+	name = "Shadman"
+	desc = "POLITICS_SHADMAN_DESC"
+	picture = "Portrait_Switzerland_Shadman.dds" 
+	expire = "2060.1.1"
 	ideology = nazism
 	traits = {
-		#
+		dictator
 	}
 }
 
